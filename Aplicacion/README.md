@@ -5,7 +5,7 @@
 
 - **Usuario: a01029811@tec.mx**
 
-## **Contraseña: 52811040305MpH@**
+- **Contraseña: 52811040305MpH@**
 
 ## **MANUAL DE USARIO**
 - El usuario entre a la aplicación y en caso de no tener un perfil creado, puede crear uno.
