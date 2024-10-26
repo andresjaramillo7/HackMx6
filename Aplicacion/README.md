@@ -22,4 +22,4 @@
 
 - En caso de tener una duda, puede presionar el Chat-Bot que se encuentra en la barra lateral izquierda para consultar la inteligencia artificial.
 
-![bot](./../public/images/usuario/chatbot.png)
+![bot](./../public/images/usuario/bot.png)
